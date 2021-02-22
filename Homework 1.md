@@ -1,5 +1,7 @@
 **Homework 1**
+
 In order to get my Raspberry Pi 4 to run the code I did the following:
+
 * Connected directly to the Pi via ethernet connection
 * This allowed me to set up a VNC connection to the Pi
 * This VNC connection let me get the IP address of the PI once it connected to an arbitrary WiFi network
