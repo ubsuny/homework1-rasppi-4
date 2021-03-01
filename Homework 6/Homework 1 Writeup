@@ -1,0 +1,19 @@
+**Homework 1**
+
+To run this assignment on a Raspberry Pi 4, the following steps were taken:
+
+*The Raspbian 64 bit OS was installed on a micro SD card.
+
+*Connected the raspi 4 to an ethernet and power supply.
+
+*Enabled SSH and connected a computer to the device.
+
+*Checked to verify that Python3, pip, and other packages (matplotlib, numpy, etc.) were installed with the OS.
+
+*Installed Jupyter Notebook.
+
+*Opened Homework 6, fixed a few errors I made in the assignment last semester, and ran Jupyter Notebook.
+
+*Verified that all these steps also work localy (non-remotely) by connecting the raspi to an external monitor and other peripherals, and ran the notebook again.
+
+
